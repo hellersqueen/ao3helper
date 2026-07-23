@@ -1,21 +1,20 @@
-# AO3 Helper — distribution Tampermonkey
+# AO3 Helper
 
-Ce dépôt public contient uniquement le fichier généré nécessaire au
-fonctionnement d’AO3 Helper. Le code source et le processus de build sont
-maintenus séparément.
+Userscript (Tampermonkey) qui ajoute des fonctionnalités à
+[Archive of Our Own](https://archiveofourown.org/) : filtrage et affichage
+des tags, suivi de lecture, thèmes personnalisés, lecture à voix haute,
+et une quarantaine d'autres modules.
+
+> Dépôt de **distribution** (généré automatiquement). Le code source vit
+> ailleurs — ne modifiez pas ces fichiers à la main, ils sont écrasés à
+> chaque publication.
 
 ## Installation
 
-1. Installer [Tampermonkey](https://www.tampermonkey.net/) dans le navigateur.
-2. Ouvrir
-   [`ao3-helper.user.js`](https://raw.githubusercontent.com/hellersqueen/ao3helper/main/dist/ao3-helper.user.js).
-3. Accepter l’installation proposée par Tampermonkey.
+1. Installer l'extension [Tampermonkey](https://www.tampermonkey.net/) dans le navigateur.
+2. **[👉 Installer AO3 Helper](https://raw.githubusercontent.com/hellersqueen/ao3helper/main/loader.user.js)** — Tampermonkey proposera l'installation.
+3. Aller sur [archiveofourown.org](https://archiveofourown.org/) : le script s'active tout seul.
 
-`ao3-helper.user.js` est **autonome** : tous les modules et le panneau de
-configuration sont inclus dans ce seul fichier. Aucun téléchargement
-supplémentaire n’est nécessaire au démarrage, et Tampermonkey le met à jour
-automatiquement via son `@updateURL`.
+Les mises à jour arrivent automatiquement.
 
-## Licence
-
-MIT
+Version actuelle : `1.2.3`
