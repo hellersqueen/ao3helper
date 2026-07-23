@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AO3 Helper
 // @namespace    http://tampermonkey.net/
-// @version      1.2.3
+// @version      1.2.4
 // @author       You
 // @description  Enhanced AO3 experience with modern UI and features
 // @license      MIT
