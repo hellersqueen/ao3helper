@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         1 - AO3 Helper (Loader GitHub)
 // @namespace    ao3h
-// @version      1.2.4
+// @version      1.2.5
 // @description  Charge AO3 Helper depuis le dépôt GitHub (hellersqueen/ao3helper).
 // @author       You
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=archiveofourown.org
