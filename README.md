@@ -17,4 +17,4 @@ et une quarantaine d'autres modules.
 
 Les mises à jour arrivent automatiquement.
 
-Version actuelle : `1.2.5`
+Version actuelle : `1.2.6`
